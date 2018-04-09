@@ -9,15 +9,15 @@ tags: [Node,邮件,杭州小客车摇号]
 ## QQ邮箱开通SMTP
 1. 打开QQ邮箱，进入账户选项
 
-![image](http://blog.shenxj.xyz/markdown-image/qqmail-1.png)
+![image](http://blog.shenxj.xyz/markdown-image/email-car-hz/qqmail-1.png)
 
-![image](http://blog.shenxj.xyz/markdown-image/qqmail-2.png)
+![image](http://blog.shenxj.xyz/markdown-image/email-car-hz/qqmail-2.png)
 2. 开通SMTP服务
 
-![image](http://blog.shenxj.xyz/markdown-image/qqmail-3.png)
+![image](http://blog.shenxj.xyz/markdown-image/email-car-hz/qqmail-3.png)
 3. 生成授权码
 
-![image](http://blog.shenxj.xyz/markdown-image/qqmail-4.png)
+![image](http://blog.shenxj.xyz/markdown-image/email-car-hz/qqmail-4.png)
 
 ## 查询接口解析
 
